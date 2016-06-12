@@ -7,3 +7,4 @@ branch merge without Fast forward
 For team.
 I'm Mike
 commit OK
+Bug fix
