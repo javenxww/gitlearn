@@ -8,3 +8,4 @@ For team.
 I'm Mike
 commit OK
 Bug fix
+Use stash
