@@ -6,3 +6,4 @@ Creating a new branch is quick AND simple..
 branch merge without Fast forward
 For team.
 I'm Mike
+commit OK
